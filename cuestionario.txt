@@ -1,4 +1,5 @@
 1.-¿ jdaskdjaskdjask?
+<<<<<<< HEAD
 2.-¿ jdaskdjaskdjask?
 3.-¿ jdaskdjaskdjask?
 
@@ -6,3 +7,12 @@
 5.-¿ jdaskdjaskdjask?
 6.-¿ jdaskdjaskdjask?
 7.-¿ jdaskdjaskdjask?
+=======
+1.-¿ Buenas?
+1.-¿ jdaskdjaskdjask?
+Cambios de Juanjo
+1.-¿ jdaskdjaskdjask?
+1.-¿ jdaskdjaskdjask?
+1.-¿ jdaskdjaskdjask?
+1.-¿ jdaskdjaskdjask?
+>>>>>>> dd2445c52fe1b2407bfb1b225e0c6ba12594d654
